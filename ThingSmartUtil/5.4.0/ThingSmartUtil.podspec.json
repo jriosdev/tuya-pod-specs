@@ -10,7 +10,7 @@
   },
   "homepage": "https://developer.thing.com/",
   "source": {
-    "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/ThingSmartUtil-5.4.0.zip",
+    "http": "https://firebasestorage.googleapis.com/v0/b/l4e-app.appspot.com/o/ThingSmartUtil-5.4.0.zip?alt=media&token=bb95e870-1f8e-4733-a216-7a600afffb7c",
     "type": "zip"
   },
   "platforms": {
